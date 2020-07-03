@@ -4,3 +4,7 @@ Automating whatsapp texts. You'll be able to send texts via whatsapp using selen
 testing.py is for sending the normal texts.
 
 sharing_media.py is for sending media like images / videos to the recipient. 
+
+Resources:
+
+https://realpython.com/modern-web-automation-with-python-and-selenium/
