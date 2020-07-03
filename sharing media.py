@@ -30,5 +30,5 @@ send = driver.find_element_by_xpath('//span[@data-icon = "send"]') #send button 
 send.click()
 
 #driver.quit()
-#recipient Chikku😘
+
 #_3WjMU _1C-hz
