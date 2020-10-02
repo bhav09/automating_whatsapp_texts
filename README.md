@@ -1,5 +1,5 @@
 # automating_whatsapp_texts
-Automating whatsapp texts. You'll be able to send texts via whatsapp using selenium.
+Automating whatsapp texts. This shall help scheduling messages and easily manage them. You'll be able to send texts via whatsapp using selenium.
 
 testing.py is for sending the normal texts.
 
